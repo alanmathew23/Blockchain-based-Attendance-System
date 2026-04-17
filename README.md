@@ -81,15 +81,6 @@ contracts/
 
 ---
 
-## Future Improvements
-
-* Add role-based access (multiple instructors)
-* Improve gas efficiency
-* Add frontend UI (React/Web3)
-* Store data off-chain for scalability
-
----
-
 ## License
 
 MIT License
